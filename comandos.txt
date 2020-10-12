@@ -1,0 +1,11 @@
+git init - Inicializa Repositorio 
+git status - Traz as informações atuais
+git log - Traz o log das alterações realizadas
+git add "arquivo" - Adiciona Arquivo git 
+git commit -m "Descrição" - Registra as alterações
+git push origin master - Envia os arquivos locais alterados ao repositorio remoto
+git pull origin master - Baixa os arquivos alterados do repositorio remoto
+
+
+
+
