@@ -6,6 +6,8 @@ git commit -m "Descrição" - Registra as alterações
 git push origin master - Envia os arquivos locais alterados ao repositorio remoto
 git pull origin master - Baixa os arquivos alterados do repositorio remoto
 
+git branch "nome-novo-branch" - Cria uma ramificação do projeto principal...
+git switch "nome-pagina-branch" - Altera o contexto para o branch que deseja estar trabalhando ...
 
 
 
